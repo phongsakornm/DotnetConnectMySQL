@@ -1,0 +1,17 @@
+D:\Project\_DoJo\DotnetConnectMySQL\DotnetConnectMySQL\DotnetConnectMySQL\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Project\_DoJo\DotnetConnectMySQL\DotnetConnectMySQL\DotnetConnectMySQL\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Project\_DoJo\DotnetConnectMySQL\DotnetConnectMySQL\DotnetConnectMySQL\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Project\_DoJo\DotnetConnectMySQL\DotnetConnectMySQL\DotnetConnectMySQL\bin\Debug\netcoreapp2.2\DotnetConnectMySQL.deps.json
+D:\Project\_DoJo\DotnetConnectMySQL\DotnetConnectMySQL\DotnetConnectMySQL\bin\Debug\netcoreapp2.2\DotnetConnectMySQL.runtimeconfig.json
+D:\Project\_DoJo\DotnetConnectMySQL\DotnetConnectMySQL\DotnetConnectMySQL\bin\Debug\netcoreapp2.2\DotnetConnectMySQL.runtimeconfig.dev.json
+D:\Project\_DoJo\DotnetConnectMySQL\DotnetConnectMySQL\DotnetConnectMySQL\bin\Debug\netcoreapp2.2\DotnetConnectMySQL.dll
+D:\Project\_DoJo\DotnetConnectMySQL\DotnetConnectMySQL\DotnetConnectMySQL\bin\Debug\netcoreapp2.2\DotnetConnectMySQL.pdb
+D:\Project\_DoJo\DotnetConnectMySQL\DotnetConnectMySQL\DotnetConnectMySQL\obj\Debug\netcoreapp2.2\DotnetConnectMySQL.RazorAssemblyInfo.cache
+D:\Project\_DoJo\DotnetConnectMySQL\DotnetConnectMySQL\DotnetConnectMySQL\obj\Debug\netcoreapp2.2\DotnetConnectMySQL.RazorAssemblyInfo.cs
+D:\Project\_DoJo\DotnetConnectMySQL\DotnetConnectMySQL\DotnetConnectMySQL\obj\Debug\netcoreapp2.2\DotnetConnectMySQL.RazorTargetAssemblyInfo.cache
+D:\Project\_DoJo\DotnetConnectMySQL\DotnetConnectMySQL\DotnetConnectMySQL\obj\Debug\netcoreapp2.2\DotnetConnectMySQL.dll
+D:\Project\_DoJo\DotnetConnectMySQL\DotnetConnectMySQL\DotnetConnectMySQL\obj\Debug\netcoreapp2.2\DotnetConnectMySQL.pdb
+D:\Project\_DoJo\DotnetConnectMySQL\DotnetConnectMySQL\DotnetConnectMySQL\bin\Debug\netcoreapp2.2\appsettings.Localhost.json
+D:\Project\_DoJo\DotnetConnectMySQL\DotnetConnectMySQL\DotnetConnectMySQL\bin\Debug\netcoreapp2.2\appsettings.Production.json
+D:\Project\_DoJo\DotnetConnectMySQL\DotnetConnectMySQL\DotnetConnectMySQL\bin\Debug\netcoreapp2.2\appsettings.UAT.json
+D:\Project\_DoJo\DotnetConnectMySQL\DotnetConnectMySQL\DotnetConnectMySQL\bin\Debug\netcoreapp2.2\DotnetConnectMySQL.xml
